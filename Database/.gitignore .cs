@@ -1,0 +1,13 @@
+﻿// bin/
+// obj/
+// .vs/
+// *.user
+// *.suo
+// *.vcxproj.user
+// *.db
+// *.sqlite
+// .env
+// Migrations/
+// .vscode/
+// .DS_Store
+// Thumbs.db
